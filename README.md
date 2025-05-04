@@ -31,13 +31,8 @@ Upload best.pt to Colab (e.g., /content/) for inference, or retrain to generate 
 
 ### Dataset
 
-## Details
+#### Details
 
-Source: Roboflow
-Workspace: mytest-159uz
-Project: test-slsnk
-Version: 3
-Format: YOLOv11
 Splits: 908 training images, 49 validation images.
 
 The notebook downloads the dataset via the Roboflow API.
